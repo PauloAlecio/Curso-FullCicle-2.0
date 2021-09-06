@@ -5,4 +5,4 @@
 
 
 # CURSO-FULL-CICLE-2.0
-Aprender técnicas e ferramentas que te ajudarão a arquitetar, desenvolver, deployar e monitorar aplicações de ponta a ponta, incluindo backend e frontend.
+Aprender técnicas e ferramentas que ajudarão a arquitetar, desenvolver, deployar e monitorar aplicações de ponta a ponta, incluindo backend e frontend.
